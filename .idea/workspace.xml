@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ad872e0-784e-4163-b580-d40fe20a6b22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test11,py.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test11,py.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="82" selection-start-line="15" selection-start-column="82" selection-end-line="15" selection-end-column="82" />
+            <state relative-caret-position="374">
+              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -239,7 +238,7 @@
       <workItem from="1566990477827" duration="112000" />
       <workItem from="1566996361734" duration="3000" />
       <workItem from="1567167559674" duration="7000" />
-      <workItem from="1567167597834" duration="3170000" />
+      <workItem from="1567167597834" duration="3417000" />
     </task>
     <task id="LOCAL-00001" summary="firstday test">
       <created>1566488729838</created>
@@ -248,14 +247,21 @@
       <option name="project" value="LOCAL" />
       <updated>1566488729838</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="firstday test">
+      <created>1567171413622</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567171413622</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42648000" />
+    <option name="totallyTimeSpent" value="42895000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="822" y="129" width="1511" height="1087" extended-state="0" />
+    <frame x="320" y="48" width="1511" height="1087" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28256375" />
@@ -376,8 +382,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test11,py.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="82" selection-start-line="15" selection-start-column="82" selection-end-line="15" selection-end-column="82" />
+        <state relative-caret-position="374">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
         </state>
       </provider>
     </entry>
